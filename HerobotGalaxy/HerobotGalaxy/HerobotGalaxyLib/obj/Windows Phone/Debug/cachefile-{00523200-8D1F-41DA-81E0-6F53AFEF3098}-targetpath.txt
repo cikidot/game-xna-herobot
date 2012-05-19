@@ -1,0 +1,10 @@
+Content\Image\Debug\block_face.xnb
+Content\Image\Debug\box_debug.xnb
+Content\Image\Bar\bar.xnb
+Content\Image\Menu\main-menu-background.xnb
+Content\Image\Character\Enemy_Tube.xnb
+Content\Image\Character\Enemy_Ball.xnb
+Content\Image\background\BG_play_witP.xnb
+Content\Image\Character\baseplane.xnb
+Content\Image\Character\hero.xnb
+Content\Image\Other\Nut_real.xnb

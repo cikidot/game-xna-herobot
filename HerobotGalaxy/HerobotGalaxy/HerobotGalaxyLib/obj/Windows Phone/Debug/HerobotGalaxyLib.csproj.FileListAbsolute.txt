@@ -1,0 +1,37 @@
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\HerobotGalaxyLib.dll
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\HerobotGalaxyLib.pdb
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\obj\Windows Phone\Debug\HerobotGalaxyLib.dll
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\obj\Windows Phone\Debug\HerobotGalaxyLib.pdb
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Debug\box_debug.xnb
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Splash\gabuters12splashscreen.xnb
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Debug\block_face.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Debug\block_face.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Debug\box_debug.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\HerobotGalaxyLib.dll
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\HerobotGalaxyLib.pdb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\obj\Windows Phone\Debug\HerobotGalaxyLib.dll
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\obj\Windows Phone\Debug\HerobotGalaxyLib.pdb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Bar\bar.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Menu\main-menu-background.xnb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Debug\block_face.xnb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Debug\box_debug.xnb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Bar\bar.xnb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Menu\main-menu-background.xnb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\HerobotGalaxyLib.dll
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\HerobotGalaxyLib.pdb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\obj\Windows Phone\Debug\HerobotGalaxyLib.dll
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\obj\Windows Phone\Debug\HerobotGalaxyLib.pdb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Character\Enemy_Ball.xnb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Character\Enemy_Tube.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Character\Enemy_Tube.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Character\Enemy_Ball.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\background\BG_play_witP.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Character\baseplane.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Character\hero.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Other\Nut_real.xnb

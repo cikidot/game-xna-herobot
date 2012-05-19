@@ -1,0 +1,75 @@
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\ResolveAssemblyReference.cache
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\App.g.i.cs
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\MainPage.g.i.cs
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\GamePage.g.i.cs
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\Screen\SplashScreen.g.i.cs
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\HerobotGalaxy.g.resources
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\ApplicationIcon.png
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Background.png
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxy.dll
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxy.pdb
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\AppManifest.xaml
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxy.xap
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxyLib.dll
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxyLib.pdb
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\HerobotGalaxy.dll
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\HerobotGalaxy.pdb
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\XapCacheFile.xml
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\Screen\MainMenu.g.i.cs
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Debug\box_debug.xnb
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Splash\gabuters12splashscreen.xnb
+D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Debug\block_face.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\ApplicationIcon.png
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Background.png
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Debug\block_face.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Debug\box_debug.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxy.dll
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxy.pdb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\AppManifest.xaml
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxy.xap
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxyLib.dll
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxyLib.pdb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\ResolveAssemblyReference.cache
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\App.g.cs
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\MainPage.g.cs
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\GamePage.g.cs
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\Screen\SplashScreen.g.cs
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\HerobotGalaxy.g.resources
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\HerobotGalaxy.dll
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\HerobotGalaxy.pdb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\XapCacheFile.xml
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Bar\bar.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Menu\main-menu-background.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\Screen\Menu.g.cs
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\ApplicationIcon.png
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Background.png
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Debug\block_face.xnb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Debug\box_debug.xnb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Bar\bar.xnb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Menu\main-menu-background.xnb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxy.dll
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxy.pdb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\AppManifest.xaml
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxy.xap
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxyLib.dll
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxyLib.pdb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\App.g.i.cs
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\MainPage.g.i.cs
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\GamePage.g.i.cs
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\Screen\Menu.g.i.cs
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\Screen\SplashScreen.g.i.cs
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\HerobotGalaxy.g.resources
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\HerobotGalaxy.dll
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\HerobotGalaxy.pdb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\XapCacheFile.xml
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\Screen\MainGame.g.i.cs
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Character\Enemy_Ball.xnb
+C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Character\Enemy_Tube.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Character\Enemy_Tube.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Character\Enemy_Ball.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\Screen\MainGame.g.cs
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\background\BG_play_witP.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Character\baseplane.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Character\hero.xnb
+E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Other\Nut_real.xnb
