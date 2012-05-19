@@ -18,8 +18,8 @@ namespace HerobotGalaxy.Game.Database
     
     public class DataRandom
     {
-        static double[] MinDelay = {0, 1.25 };
-        static double[] MaxDelay = {0, 4.5 };
+        static double[] MinDelay = {0, 3 };
+        static double[] MaxDelay = {0, 9 };
         static int[] LimitEnemy = {0, 23 };
         const int DEFAULT_SIZE = 1234;
         static List<Tuple<string, TimeSpan>> list = new List<Tuple<string, TimeSpan>>(DEFAULT_SIZE);

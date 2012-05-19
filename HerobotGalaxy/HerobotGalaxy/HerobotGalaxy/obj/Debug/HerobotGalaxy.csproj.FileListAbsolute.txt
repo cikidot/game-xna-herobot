@@ -73,3 +73,37 @@ E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\Her
 E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Character\baseplane.xnb
 E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Character\hero.xnb
 E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Other\Nut_real.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\ApplicationIcon.png
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Background.png
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Debug\block_face.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Debug\box_debug.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Bar\bar.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Menu\main-menu-background.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Character\Enemy_Tube.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Character\Enemy_Ball.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\background\BG_play_witP.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Character\baseplane.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Character\hero.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Other\Nut_real.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxy.dll
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxy.pdb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\AppManifest.xaml
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxy.xap
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxyLib.dll
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\HerobotGalaxyLib.pdb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\ResolveAssemblyReference.cache
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\App.g.i.cs
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\MainPage.g.i.cs
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\GamePage.g.i.cs
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\Screen\MainGame.g.i.cs
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\Screen\Menu.g.i.cs
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\Screen\SplashScreen.g.i.cs
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\HerobotGalaxy.g.resources
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\HerobotGalaxy.dll
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\HerobotGalaxy.pdb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\obj\Debug\XapCacheFile.xml
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Background\pause-bg.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Button\pausebtn_button.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Button\pausebtn_close.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Button\pausebtn_restart.xnb
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\Bin\Debug\Content\Image\Button\pausebtn_resume.xnb

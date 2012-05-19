@@ -1,3 +1,4 @@
 D:\My Code\Visual C# Programming\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
 E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
 C:\Users\dna-asclepius\Desktop\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

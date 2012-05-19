@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Debug\block_face.xnb</Output>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Debug\block_face.xnb</Output>
       <Time>2012-04-15T12:20:50+07:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Debug\box_debug.xnb</Output>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Debug\box_debug.xnb</Output>
       <Time>2012-04-15T12:21:06+07:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Bar\bar.xnb</Output>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Bar\bar.xnb</Output>
       <Time>2012-04-25T20:15:32+07:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Menu\main-menu-background.xnb</Output>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Menu\main-menu-background.xnb</Output>
       <Time>2012-04-26T22:33:50+07:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Character\Enemy_Tube.xnb</Output>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Character\Enemy_Tube.xnb</Output>
       <Time>2012-04-27T11:25:46+07:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Character\Enemy_Ball.xnb</Output>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Character\Enemy_Ball.xnb</Output>
       <Time>2012-04-28T10:02:31+07:00</Time>
     </Item>
     <Item>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\background\BG_play_witP.xnb</Output>
-      <Time>2012-05-17T22:07:52.3325287+07:00</Time>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\background\BG_play_witP.xnb</Output>
+      <Time>2012-05-17T22:07:52+07:00</Time>
     </Item>
     <Item>
       <Source>Image\Character\baseplane.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Character\baseplane.xnb</Output>
-      <Time>2012-05-17T22:08:17.1968298+07:00</Time>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Character\baseplane.xnb</Output>
+      <Time>2012-05-17T22:08:17+07:00</Time>
     </Item>
     <Item>
       <Source>Image\Character\hero.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Character\hero.xnb</Output>
-      <Time>2012-05-17T22:08:17.1968298+07:00</Time>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Character\hero.xnb</Output>
+      <Time>2012-05-17T22:08:17+07:00</Time>
     </Item>
     <Item>
       <Source>Image\Other\Nut_real.png</Source>
@@ -88,8 +88,53 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Other\Nut_real.xnb</Output>
-      <Time>2012-05-17T22:08:29.6914658+07:00</Time>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Other\Nut_real.xnb</Output>
+      <Time>2012-05-17T22:08:29+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Background\pause-bg.png</Source>
+      <Name>Image\Background\pause-bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Background\pause-bg.xnb</Output>
+      <Time>2012-05-19T22:52:55.8679+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Button\pausebtn_button.png</Source>
+      <Name>Image\Button\pausebtn_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Button\pausebtn_button.xnb</Output>
+      <Time>2012-05-19T23:34:32.9289+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Button\pausebtn_close.png</Source>
+      <Name>Image\Button\pausebtn_close</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Button\pausebtn_close.xnb</Output>
+      <Time>2012-05-19T23:29:24.6929+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Button\pausebtn_restart.png</Source>
+      <Name>Image\Button\pausebtn_restart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Button\pausebtn_restart.xnb</Output>
+      <Time>2012-05-19T23:29:24.7289+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Button\pausebtn_resume.png</Source>
+      <Name>Image\Button\pausebtn_resume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\Image\Button\pausebtn_resume.xnb</Output>
+      <Time>2012-05-19T23:29:24.7389+07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -98,39 +143,39 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLibContent\</RootDirectory>
-      <LoggerRootDirectory>E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\</LoggerRootDirectory>
-      <IntermediateDirectory>E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\obj\Windows Phone\Debug\</IntermediateDirectory>
-      <OutputDirectory>E:\DATA\MATERI\OTHERS\MOBILE DEVELOPER\WP7\LUMIA DEVELOPER DAY\HerobotGalaxy\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\</OutputDirectory>
+      <RootDirectory>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLibContent\</RootDirectory>
+      <LoggerRootDirectory>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\My Code\GitRepository\game-xna-herobot\HerobotGalaxy\HerobotGalaxy\HerobotGalaxyLib\bin\Windows Phone\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+07:00</Value>
+        <Value>2011-07-08T02:33:26+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2011-09-01T16:22:30+07:00</Value>
+        <Value>2011-07-08T02:33:24+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+07:00</Value>
+        <Value>2011-07-08T02:33:24+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+07:00</Value>
+        <Value>2011-07-08T02:33:26+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2011-09-01T16:22:30+07:00</Value>
+        <Value>2011-07-08T02:33:24+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2011-09-01T16:22:30+07:00</Value>
+        <Value>2011-07-08T02:33:24+07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2012-04-14T14:43:50.3180503+07:00</Value>
+        <Value>2012-01-16T22:36:53.51275+07:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

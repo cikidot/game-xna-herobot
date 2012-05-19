@@ -74,7 +74,7 @@ namespace HerobotGalaxy.Game.Other
             onDecay = false;
             gp.Velocity = 80;
         }
-
+        
         public Projectile Clone()
         {
             return new Projectile(Texture2D, startVec, base.Color);

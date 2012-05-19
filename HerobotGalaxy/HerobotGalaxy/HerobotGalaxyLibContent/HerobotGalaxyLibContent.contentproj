@@ -84,7 +84,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Image\background\BG_play_witP.png">
+    <Compile Include="Image\Background\BG_play_witP.png">
       <Name>BG_play_witP</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
@@ -105,6 +105,37 @@
   <ItemGroup>
     <Compile Include="Image\Other\Nut_real.png">
       <Name>Nut_real</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Image\Background\pause-bg.png">
+      <Name>pause-bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Image\Button\pausebtn_button.png">
+      <Name>pausebtn_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Image\Button\pausebtn_close.png">
+      <Name>pausebtn_close</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Image\Button\pausebtn_restart.png">
+      <Name>pausebtn_restart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Image\Button\pausebtn_resume.png">
+      <Name>pausebtn_resume</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

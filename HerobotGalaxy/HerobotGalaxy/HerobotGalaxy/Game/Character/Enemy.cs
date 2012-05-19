@@ -26,7 +26,7 @@ namespace HerobotGalaxy.Game
         #region EnemyInitialCondition
         // Data parameter : Type, HitPoint, Velocity //
         static Dictionary<string, Tuple<int, float, Vector2>> EnemyDict = new Dictionary<string, Tuple<int, float, Vector2>>() { 
-            {"Enemy_Ball", new Tuple<int, float, Vector2>(30, 0.5f, new Vector2(800, 200))}
+            {"Enemy_Ball", new Tuple<int, float, Vector2>(30, 0.5f, new Vector2(800, 410))}
         };
         
         

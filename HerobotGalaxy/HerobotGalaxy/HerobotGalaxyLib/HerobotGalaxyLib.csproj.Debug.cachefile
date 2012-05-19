@@ -8,3 +8,8 @@ Content\Image\background\BG_play_witP.xnb
 Content\Image\Character\baseplane.xnb
 Content\Image\Character\hero.xnb
 Content\Image\Other\Nut_real.xnb
+Content\Image\Background\pause-bg.xnb
+Content\Image\Button\pausebtn_button.xnb
+Content\Image\Button\pausebtn_close.xnb
+Content\Image\Button\pausebtn_restart.xnb
+Content\Image\Button\pausebtn_resume.xnb

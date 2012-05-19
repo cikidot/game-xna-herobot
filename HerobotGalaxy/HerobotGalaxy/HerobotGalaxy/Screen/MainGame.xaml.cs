@@ -29,6 +29,10 @@ namespace HerobotGalaxy.Screen
 
         SpriteBatch spriteBatch;
 
+        //Game control //
+        public static bool _IsPlay = true;
+        public static bool IsPlay { get { return _IsPlay; } set { _IsPlay = value; } }
+
         //Input
         TouchPointInput touchPointInput;
 
@@ -73,13 +77,13 @@ namespace HerobotGalaxy.Screen
             spriteBatch = new SpriteBatch(SharedGraphicsDeviceManager.Current.GraphicsDevice);
 
             // TODO: use this.content to load your game content here
-            Init();
+            InitResources();
             // Start the timer
             timer.Start();
 
             // After all of resources load and timer start, StartGame //
 
-            StartGame();
+            InitGame();
 
             base.OnNavigatedTo(e);
         }
@@ -124,8 +128,13 @@ namespace HerobotGalaxy.Screen
             }
 
             // Summon enemy //
-            spriteList.Update(e);
-
+            if (IsPlay)
+            {
+                spriteList.Update(e);
+            }
+            else {
+                pauseSpriteList.Update(e);
+            }
 
             SummonEnemyAtTime(e);
 
@@ -145,9 +154,13 @@ namespace HerobotGalaxy.Screen
             hudRenderer.Render();
 
             spriteBatch.Begin();
-
-            spriteList.Draw(e);
-
+            if (IsPlay)
+            {
+                spriteList.Draw(e);
+            }
+            else {
+                pauseSpriteList.Draw(e);
+            }
 
             spriteBatch.End();
 
@@ -181,7 +194,8 @@ namespace HerobotGalaxy.Screen
         SpriteList spriteList;
         TextureDict textDict;
         List<Tuple<string, TimeSpan>> EnemySpawnTime;
-        public void Init()
+        SpriteList pauseSpriteList;
+        public void InitResources()
         {
             // Init SpriteList //
             spriteList = new SpriteList(spriteBatch);
@@ -196,9 +210,23 @@ namespace HerobotGalaxy.Screen
             textDict.Add("hero", contentManager.Load<Texture2D>("Image/Character/hero"));
             textDict.Add("plane", contentManager.Load<Texture2D>("Image/Character/baseplane"));
             textDict.Add("nut", contentManager.Load<Texture2D>("Image/Other/nut_real"));
-            textDict.Add("background", contentManager.Load<Texture2D>("Image/background/BG_play_witP"));
+            textDict.Add("background", contentManager.Load<Texture2D>("Image/Background/BG_play_witP"));
 
+            textDict.Add("pause_bg", contentManager.Load<Texture2D>("Image/Background/pause-bg"));
+            textDict.Add("pausebtn_close", contentManager.Load<Texture2D>("Image/Button/pausebtn_close"));
+            textDict.Add("pausebtn_restart", contentManager.Load<Texture2D>("Image/Button/pausebtn_restart"));
+            textDict.Add("pausebtn_resume",contentManager.Load<Texture2D>("Image/Button/pausebtn_resume"));
+            textDict.Add("pausebtn_button", contentManager.Load<Texture2D>("Image/Button/pausebtn_button"));
             touchPointInput = new TouchPointInput(150, 100);
+
+            // Init Pause Sprite List //
+            pauseSpriteList = new SpriteList(spriteBatch);
+
+            pauseSpriteList.AddSprite(new Sprite(textDict.Get("pause_bg"), Vector2.Zero,Color.White));
+            pauseSpriteList.AddSprite(new Sprite(textDict.Get("pausebtn_close"), Vector2.Zero, Color.White));
+            pauseSpriteList.AddSprite(new Sprite(textDict.Get("pausebtn_restart"), Vector2.Zero, Color.White));
+            pauseSpriteList.AddSprite(new Sprite(textDict.Get("pausebtn_resume"), Vector2.Zero, Color.White));
+            //pauseSpriteList.AddSprite(new Sprite(textDict.Get("pausebtn_button"), new Vector2(360, 10), Color.White));
 
             // Generate enemy spawn time //
             EnemySpawnTime = DataRandom.GetEnemySpawnAtLevel(1);
@@ -209,17 +237,21 @@ namespace HerobotGalaxy.Screen
         /* Draw */
 
 
-        public void StartGame()
+        public void InitGame()
         {
+            
 
             Sprite backsprite = new Sprite(textDict.Get("background"));
             spriteList.AddSprite(backsprite);
+            spriteList.AddSprite(new Sprite(textDict.Get("pausebtn_button")));
             powerbar = new Bar(textDict.Get("bar"), new Vector2(100, 100), SharedGraphicsDeviceManager.Current.GraphicsDevice);
             spriteList.AddSprite(powerbar);
             AnimatedSprite hero = new AnimatedSprite(textDict.Get("hero"), 1, 7, new Vector2(50, 200), 100);
             spriteList.AddSprite(hero);
             AnimatedSprite plane = new AnimatedSprite(textDict.Get("plane"), 1, 5, new Vector2(10, 300), 100);
             spriteList.AddSprite(plane);
+            
+            
 
             projectileBase = new ProjectileBase(90, 240, powerbar, hero, plane);
             for (int i = 0; i < 1; i++)
@@ -232,6 +264,15 @@ namespace HerobotGalaxy.Screen
 
         }
 
+        public void StartGame() {
+            IsPlay = true;
+        }
+        public void PauseGame() {
+            IsPlay = false;
+            // Put transparent //
+            
+        }
+
         int EnemyListIdx = 0;
         public void SummonEnemyAtTime(GameTimerEventArgs e)
         {
@@ -240,7 +281,7 @@ namespace HerobotGalaxy.Screen
             {
                 spriteList.AddSprite(new Enemy(EnemySpawnTime[EnemyListIdx].Item1, textDict.Get("Enemy_Ball")));
 
-                Debug.WriteLine("Spawn New Enemy at " + e.TotalTime + " " + EnemySpawnTime[EnemyListIdx].Item2.TotalSeconds);
+                //Debug.WriteLine("Spawn New Enemy at " + e.TotalTime + " " + EnemySpawnTime[EnemyListIdx].Item2.TotalSeconds);
                 EnemyListIdx++;
             }
         }
