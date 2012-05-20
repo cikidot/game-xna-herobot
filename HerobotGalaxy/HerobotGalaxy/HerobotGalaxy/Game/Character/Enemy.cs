@@ -13,10 +13,12 @@ using Microsoft.Phone.Controls;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Media;
 
 using HerobotGalaxy.Game.Physics;
 using HerobotGalaxy.Game;
 using HerobotGalaxy.Game.Sprites;
+using HerobotGalaxy.Game.Other;
 
 
 namespace HerobotGalaxy.Game
@@ -57,6 +59,13 @@ namespace HerobotGalaxy.Game
             this.IsStunned = false;
         }
 
+        public bool IsCollided(Projectile projectile) {
+            if (this.RecArea.Intersects(projectile.RecArea)) {
+                this.HitPoint -= projectile.Damage;
+                return true;
+            }
+            return false;
+        }
 
         public override void Update(GameTimerEventArgs gameTime)
         {
@@ -65,6 +74,7 @@ namespace HerobotGalaxy.Game
             
             if (IsAlive && !IsStunned) {                
                 this.X = this.X-Velocity;
+                this.RecArea = new Rectangle(
                 Debug.WriteLine("Moved from"+Position);
             }
         }

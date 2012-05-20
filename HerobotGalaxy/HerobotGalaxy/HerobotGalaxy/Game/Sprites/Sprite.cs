@@ -200,9 +200,7 @@ namespace HerobotGalaxy.Game.Sprites
 
         }
 
-        public virtual void Update(GameTimerEventArgs gameTime, TouchPointInput input) {
-            EventTap(input);
-        }
+
 
         public virtual void Draw(GameTimerEventArgs gameTime, SpriteBatch batch)
         {

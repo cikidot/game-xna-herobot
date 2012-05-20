@@ -35,6 +35,7 @@ namespace HerobotGalaxy.Game.Other
         {
             startVec = pos;
             gp = new GravityProjection(400, 500, 0, 10);
+            HitDamage = 50;
             onDecay = false;
         }
 

@@ -76,7 +76,6 @@ namespace HerobotGalaxy.Game.Sprites
         {
             this.first = first;
             this.last = last;
-
         }
 
 
@@ -100,17 +99,15 @@ namespace HerobotGalaxy.Game.Sprites
                         stop = false;
                         this.animate(stopFrame, stopFrame+1);
                     }
-                //System.Diagnostics.Debug.WriteLine(CurrentFrame + "unyu"+base.DrawArea);
+                
             }
             base.DrawArea = area[CurrentFrame];
         }
 
         public void stopanimationAt(int frame)
-        {
-           
+        {           
                 stop = true;
-                stopFrame = frame;
-           
+                stopFrame = frame;           
         }
 
        
@@ -120,6 +117,7 @@ namespace HerobotGalaxy.Game.Sprites
             AnimatedSprite ret = new AnimatedSprite(texture, Row, Column, Position, animatedtime);
             return ret;
         }
+
         public override void Draw(GameTimerEventArgs gameTime, SpriteBatch batch)
         {
             base.Draw(gameTime, batch);

@@ -13,7 +13,7 @@ namespace HerobotGalaxy.Game.Sprites
     class SpriteList
     {
 
-        List<Sprite> spriteList;
+        public List<Sprite> spriteList;
         SpriteBatch spriteBatch;
         const int DEFAULT_SIZE = 1000;
 
@@ -89,12 +89,7 @@ namespace HerobotGalaxy.Game.Sprites
                 spriteList[n].Update(gameTime);
             }
         }
-        public void Update(GameTimerEventArgs gameTime, TouchPointInput input)
-        {
-            for (int n = 0; n < spriteList.Count; n++) {
-                spriteList[n].Update(gameTime, input);
-            }
-        }
+       
         public void UpdateAndDraw(GameTimerEventArgs gameTime)
         {
             

@@ -28,6 +28,7 @@ namespace HerobotGalaxy.Screen
     {
         ContentManager contentManager;
         GameTimer timer;
+        Stopwatch mainTimer;
 
         SpriteBatch spriteBatch;
 
@@ -60,6 +61,7 @@ namespace HerobotGalaxy.Screen
             timer.Update += OnUpdate;
             timer.Draw += OnDraw;
 
+            
 
             Application.Current.Host.Settings.EnableFrameRateCounter = true;
 
@@ -142,6 +144,19 @@ namespace HerobotGalaxy.Screen
 
                 // Draw sprite //
                 spriteList.Update(e);
+                // Check if enemy got hit by projectile//
+                for (int n = 0; n < spriteList.spriteList.Count; n++) {
+                    
+                    if (spriteList.spriteList[n].GetType() == typeof(Enemy)) {
+                        
+                        Enemy now = (Enemy) spriteList.spriteList[n];
+                        if (now.IsCollided(projectile)) {
+                            MessageBox.Show("Got Hit");
+                            
+                        }
+                        Debug.WriteLine(now.RecArea.ToString());
+                    }
+                }
             }
             else {               
                 pauseSpriteList.Update(e);
