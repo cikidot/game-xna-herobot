@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using HerobotGalaxy.Game.Other;
 
 
 namespace HerobotGalaxy.Game.Sprites
@@ -60,8 +61,8 @@ namespace HerobotGalaxy.Game.Sprites
 
         public void Draw(GameTimerEventArgs gameTime)
         {
-            int SIZE = spriteList.Count;
-            for (int n = 0; n < SIZE; n++)
+            
+            for (int n = 0; n < spriteList.Count; n++)
             {
                 if (spriteList[n].IsValid(gameTime))
                 {
@@ -71,8 +72,8 @@ namespace HerobotGalaxy.Game.Sprites
         }
 
         public void Draw(SpriteBatch spriteBatch, GameTimerEventArgs gameTime) {
-            int size = spriteList.Count;
-            for (int n = 0; n < size; n++)
+            
+            for (int n = 0; n < spriteList.Count; n++)
             {
                 if (spriteList[n].IsValid(gameTime))
                 {
@@ -82,15 +83,22 @@ namespace HerobotGalaxy.Game.Sprites
         }
 
         public void Update(GameTimerEventArgs gameTime) {
-            int size = spriteList.Count;
-            for (int n = 0; n < size; n++) {
+           
+            for (int n = 0; n < spriteList.Count; n++)
+            {
                 spriteList[n].Update(gameTime);
             }
         }
-
-        public void UpdateAndDraw(GameTimerEventArgs gameTime) {
-            int size = spriteList.Count;
-            for (int n = 0; n < size; n++)
+        public void Update(GameTimerEventArgs gameTime, TouchPointInput input)
+        {
+            for (int n = 0; n < spriteList.Count; n++) {
+                spriteList[n].Update(gameTime, input);
+            }
+        }
+        public void UpdateAndDraw(GameTimerEventArgs gameTime)
+        {
+            
+            for (int n = 0; n < spriteList.Count; n++)
             {
                 spriteList[n].Update(gameTime);
                 if (spriteList[n].IsValid(gameTime))

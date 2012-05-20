@@ -4,6 +4,7 @@ using Microsoft.Xna.Framework.Graphics;
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using HerobotGalaxy.Game.Other;
 
 
 namespace HerobotGalaxy.Game.Sprites
@@ -15,7 +16,10 @@ namespace HerobotGalaxy.Game.Sprites
     public class Sprite
     {
         #region Properties
-        public bool IsFont { get; set; }
+
+        public enum SpriteEnum { Font, Image };
+
+        public SpriteEnum Type { get; set; }
         public bool IsVisible { get; set; }
 
         public TimeSpan LifeTime { get; set; }
@@ -97,7 +101,7 @@ namespace HerobotGalaxy.Game.Sprites
             this.SpriteFont = font;
             this.Position = position;
             this.Color = color;
-            this.IsFont = true;
+            this.Type = SpriteEnum.Font;
             this.LifeTime = lifeTime;
             this.RecArea = new Rectangle((int)position.X, (int)position.Y, (int)font.MeasureString(text).X, (int)font.LineSpacing);
         }
@@ -143,9 +147,11 @@ namespace HerobotGalaxy.Game.Sprites
             this.Effects = effects;
             this.Depth = depth;
             this.DrawArea = drawArea;
-            this.IsFont = false;
+            this.Type = SpriteEnum.Image;
             this.LifeTime = lifeTime;
             this.RecArea = new Rectangle((int)position.X, (int)position.Y, texture.Width, texture.Height);
+
+            
         }
         #endregion
 
@@ -153,6 +159,13 @@ namespace HerobotGalaxy.Game.Sprites
         #endregion
 
         #region Method(s)
+
+        public virtual bool EventTap(TouchPointInput touch) {
+            if (touch.OnReleased && this.RecArea.Contains((int) touch.releaseLocation.X, (int) touch.releaseLocation.Y)) {
+                return true;
+            }
+            return false;
+        }
 
         public virtual bool IsCollided(Sprite sprite)
         {
@@ -187,10 +200,14 @@ namespace HerobotGalaxy.Game.Sprites
 
         }
 
+        public virtual void Update(GameTimerEventArgs gameTime, TouchPointInput input) {
+            EventTap(input);
+        }
+
         public virtual void Draw(GameTimerEventArgs gameTime, SpriteBatch batch)
         {
-            
-            if (!IsFont)
+
+            if (Type == SpriteEnum.Image)
             {
                 batch.Draw(
                     this.Texture2D,
@@ -204,7 +221,7 @@ namespace HerobotGalaxy.Game.Sprites
                     this.Depth
                     );
             }
-            else
+            else if (Type == SpriteEnum.Font)
             {
                 batch.DrawString(SpriteFont, Text, Position, Color);
             }

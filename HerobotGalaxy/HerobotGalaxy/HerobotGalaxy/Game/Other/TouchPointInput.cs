@@ -20,9 +20,9 @@ namespace HerobotGalaxy.Game.Other
 {
     public class TouchPointInput
     {
-        public Vector2 startLocation{get; set;}
+        public Vector2 startLocation{ get; set; }
         public Vector2 releaseLocation { get; set; }
-        public bool onReleased = false;
+        public bool OnReleased = false;
         public bool onPressed = false;
 
         public TouchPointInput(float x, float y)
@@ -30,7 +30,7 @@ namespace HerobotGalaxy.Game.Other
             startLocation = new Vector2(x, y);
         }
 
-        public void update()
+        public void Update()
         {
             TouchCollection touchLocations = TouchPanel.GetState();
             foreach (TouchLocation touchLocation in touchLocations)
@@ -38,12 +38,12 @@ namespace HerobotGalaxy.Game.Other
                 if (touchLocation.State == TouchLocationState.Released)
                 {
                     releaseLocation = touchLocation.Position;
-                    onReleased = true;
+                    OnReleased = true;
                     onPressed = false ;
                 }
                 else if (touchLocation.State == TouchLocationState.Pressed)
                 {
-                    onReleased = false;
+                    OnReleased = false;
                     onPressed = true;
                     //startLocation = touchLocation.Position;
                 }
@@ -54,14 +54,14 @@ namespace HerobotGalaxy.Game.Other
             }
         }
 
-        public float getDegree()
+        public float GetDegree()
         {
-            if (!onReleased) return -1;
+            if (!OnReleased) return -1;
 
             
             float degree = (float)Math.Atan(-(releaseLocation.Y - 250)/ (releaseLocation.X - 50.0+0.0));
-            Debug.WriteLine("input" + degree + " " + (degree * 180 * 7 / 22.0));
-            onReleased = false;
+            //Debug.WriteLine("input" + degree + " " + (degree * 180 * 7 / 22.0));
+            OnReleased = false;
             return (degree*180*7/22.0f);
         }
     }

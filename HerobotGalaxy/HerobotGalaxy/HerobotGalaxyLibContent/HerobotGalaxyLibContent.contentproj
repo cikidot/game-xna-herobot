@@ -110,13 +110,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Image\Background\pause-bg.png">
-      <Name>pause-bg</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="Image\Button\pausebtn_button.png">
       <Name>pausebtn_button</Name>
       <Importer>TextureImporter</Importer>
@@ -136,6 +129,13 @@
     </Compile>
     <Compile Include="Image\Button\pausebtn_resume.png">
       <Name>pausebtn_resume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Image\Background\pause-bg.png">
+      <Name>pause-bg</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

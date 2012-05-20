@@ -63,8 +63,7 @@ namespace HerobotGalaxy.Game
             // Animate same way with normal AnimatedSprite //
             //base.Update(gameTime);
             
-            if (IsAlive && !IsStunned) {
-                
+            if (IsAlive && !IsStunned) {                
                 this.X = this.X-Velocity;
                 Debug.WriteLine("Moved from"+Position);
             }
