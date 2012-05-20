@@ -3,13 +3,14 @@ using System.Diagnostics;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
-using System.Windows;
+//using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Microsoft.Phone.Controls;
+
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
@@ -36,8 +37,8 @@ namespace HerobotGalaxy.Game
         #endregion
 
 
-        float HitPoint { get; set; }
-        float Velocity { get; set; }
+        public float HitPoint;
+        float Velocity;
         
         bool IsAlive
         {
@@ -73,9 +74,7 @@ namespace HerobotGalaxy.Game
             //base.Update(gameTime);
             
             if (IsAlive && !IsStunned) {                
-                this.X = this.X-Velocity;
-                this.RecArea = new Rectangle(
-                Debug.WriteLine("Moved from"+Position);
+                this.X = this.X-Velocity;                
             }
         }
         

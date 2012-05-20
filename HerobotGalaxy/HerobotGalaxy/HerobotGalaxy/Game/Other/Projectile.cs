@@ -26,8 +26,7 @@ namespace HerobotGalaxy.Game.Other
         public bool start { get; set; }
         public bool onDecay { get; set; }
 
-        public int HitDamage;
-
+        
         public int Damage { get; set; }
 
         public Projectile(Texture2D texture, Vector2 pos, Microsoft.Xna.Framework.Color color)
@@ -35,7 +34,7 @@ namespace HerobotGalaxy.Game.Other
         {
             startVec = pos;
             gp = new GravityProjection(400, 500, 0, 10);
-            HitDamage = 50;
+            Damage = 50;
             onDecay = false;
         }
 
@@ -61,6 +60,7 @@ namespace HerobotGalaxy.Game.Other
                 base.Position = new Vector2(startVec.X + gp.GetXAt(time), startVec.Y + gp.GetYAt(time));
                 //Debug.WriteLine("gerak" + ( gp.GetXAt(time)) + " " + (gp.GetYAt(time)) +" "+time);
             }
+            this.RecArea.Location = new Microsoft.Xna.Framework.Point((int) Position.X, (int) Position.Y);
         }
 
         public void SetStart(float Degree)

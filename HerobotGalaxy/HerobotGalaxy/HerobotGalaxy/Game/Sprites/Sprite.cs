@@ -31,8 +31,7 @@ namespace HerobotGalaxy.Game.Sprites
         public Texture2D Texture2D { get; set; }
 
         public float Rotation { get; set; }
-
-        public Rectangle RecArea { get; set; }
+        public Rectangle RecArea;        
 
         public float Width
         {
@@ -62,12 +61,12 @@ namespace HerobotGalaxy.Game.Sprites
         public float X
         {
             get { return Position.X; }
-            set { Position = new Vector2(value, Position.Y); }
+            set { Position = new Vector2(value, Position.Y); RecArea.Location = new Point((int) value, (int) Position.Y); }
         }
         public float Y
         {
             get { return Position.Y; }
-            set { Position = new Vector2(Position.X, value); }
+            set { Position = new Vector2(Position.X, value); RecArea.Location = new Point((int)Position.X, (int) value); }
         }
 
         public Vector2 Origin { get; set; }

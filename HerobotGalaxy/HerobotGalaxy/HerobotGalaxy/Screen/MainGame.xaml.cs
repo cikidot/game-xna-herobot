@@ -151,10 +151,8 @@ namespace HerobotGalaxy.Screen
                         
                         Enemy now = (Enemy) spriteList.spriteList[n];
                         if (now.IsCollided(projectile)) {
-                            MessageBox.Show("Got Hit");
-                            
-                        }
-                        Debug.WriteLine(now.RecArea.ToString());
+                            Debug.WriteLine(now.HitPoint);   
+                        }                       
                     }
                 }
             }
